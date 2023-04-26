@@ -2,7 +2,7 @@
 
 <p align="center">
 <img
-    src="/profile/ci_tmaxtibero.png"
+    src="/profile/ci_tmaxtibero_small.png"
     alt="TmaxTibero"
     style="display: inline-block; margin: 0 auto; width: 640px"
 />
